@@ -19,7 +19,6 @@
     "commander": "^11.1.0",
     "ip": "^1.1.8",
     "kill-port": "^2.0.1",
-    "public-ip": "^7.0.1",
     "rimraf": "^5.0.5"
   },
   "devDependencies": {
